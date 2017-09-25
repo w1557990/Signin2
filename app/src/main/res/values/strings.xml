@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sign in</string>
+    <string name="tMessage">Sign on</string>
+    <string name="uName">username </string>
+    <string name="uPass">Password</string>
+    <string name="lStat">Enter username and Password</string>
+</resources>
